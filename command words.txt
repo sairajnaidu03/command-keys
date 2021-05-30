@@ -1,0 +1,24 @@
+command words for cmd
+
+1. pwd : shows current location of the file in which cmd is opened. 
+2. ls : shows the list of directory in which we are in.
+3. clear to clear the screen .
+4. cd folder/disk name :// = is used for moving in different folder disk .
+5. mkdir "folder name" : is used for make new folder in the same location.
+(use double quotes or an underscore for make new folder )
+(folder name created no. of folders wghich will be equal to no of words)
+6. touch file name with extension : is used to create a new file in the same location.
+7. cd .. : is to back in the previous folder.
+8. cd "folder name" : is to go in a specific folder if many folder are there in the folder in which we are current in. 
+9. cd (start file\folder name and press tab) : it will by default complete the file name .
+10. rm file name with extension : is used to remove/delete a file.
+11. rm -rf folder name: is used to delete an entire folder.
+12. code file name with extension : is used to open and code in the given file.
+for running an file write the programming language which is coded then file name with extension.
+example python (if window user) python(version)(if linux user) ___.py .
+(if using in vs code directly write code and file will be created and we can start coding)
+13. cd ~ : is used for going back to the same location 
+14. mv oldfilenamewithextension newfilenamewithextiension : is used to remane a file 
+15. mv filenamewithextension .\path : is used to move file into a given location 
+16. mv filenamewithextension .. : is to move a folder back to the given location 
+17. cp filenamewithextension .\foldername : is to copy a file at a given location 
